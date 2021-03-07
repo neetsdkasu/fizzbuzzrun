@@ -1,6 +1,6 @@
 # FizzBuzzRun
 
-Command program to show FizzBuzz values from 1 to 24  
+Command-line program to show FizzBuzz values from 1 to 24  
 
 ### install
 ```bash
